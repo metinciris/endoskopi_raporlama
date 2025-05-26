@@ -32,17 +32,16 @@ export const PredefinedNotes = {
     'Mikronodüler nöroendokrin hücre hiperplazisi (Sinaptofizin ile)'
   ],
   [BiopsyLocation.Duodenum]: [
-    'Marsh Tip 0',
-    'Marsh Tip 1',
-    'Marsh Tip 3a',
-    'Marsh Tip 3b',
-    'Marsh Tip 3c',
     'İntraepitelyal lenfosit artışı yoktur',
     'İntraepitelyal lenfosit artışı vardır',
     'Villuslarda atrofi yoktur',
     'Villuslarda hafif atrofi vardır',
     'Villuslarda belirgin atrofi vardır',
-    'Villuslarda komplet atrofi vardır'
+    'Villuslarda komplet atrofi vardır',
+    'Displazi yoktur',
+    'Gastrik foveolar metaplazi vardır',
+    'PNL aktivasyonu vardır',
+    'Brunner gland hiperplazisi vardır'
   ],
   [BiopsyLocation.Ileum]: [
     'Lenfoid hiperplazi vardır',
